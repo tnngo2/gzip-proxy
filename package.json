@@ -1,0 +1,11 @@
+{
+  "name": "build",
+  "version": "0.0.1",
+  "dependencies": {
+    "http-proxy": "^1.16.2"
+  },
+  "devDependencies": {
+    "compression": "^1.7.1",
+    "https": "^1.0.0"
+  }
+}
